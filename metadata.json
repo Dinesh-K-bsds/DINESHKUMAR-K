@@ -1,0 +1,5 @@
+{
+  "name": "CrowdCare",
+  "description": "Real-time community-powered public safety and incident reporting platform.",
+  "requestFramePermissions": ["geolocation"]
+}
